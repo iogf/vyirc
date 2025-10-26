@@ -8,8 +8,7 @@ setup(name="vyirc",
       py_modules=["vyirc"],
       author="Iury O. G. Figueiredo",
       author_email="ioliveira@id.uff.br",
-      url='https://github.com/vyapp/vyirc',
-      download_url='https://github.com/vyapp/vyirc/releases',
+      url='https://github.com/iogf/vyirc',
       keywords=['vy', 'irc', 'chat', 'vyirc'],
       classifiers=[])
 
